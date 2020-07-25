@@ -1,0 +1,37 @@
+body {
+    background-image: url(education.jpg); 
+    background-size: cover; 
+}
+h1 {
+    text-align: center;
+    position: absolute;
+	top: 60%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+}
+h2 {
+    font-size: 50px;
+    color: white;
+    font-size: 25px;
+}
+a {
+    font-size: 50px;
+    color: white;
+}
+p {
+    -webkit-text-stroke-color: white; 
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+	top: 40%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+}
+h3 {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    right: 20;
+    font-size: 15px;
+}
